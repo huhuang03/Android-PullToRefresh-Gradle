@@ -28,7 +28,7 @@ dependencies {
 
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'thyi'
+    bintrayName = 'pulltorefresh'
 
     publishedGroupId = 'com.tonghu.base'
     libraryName = 'Andorid-Pull-To-Refresh'
