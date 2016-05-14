@@ -7,14 +7,14 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Developer/source/Andorid-PullToRefresh-Gradle" />
-            <option value="$USER_HOME$/Developer/source/Andorid-PullToRefresh-Gradle/app" />
+            <option value="$USER_HOME$/Developer/source/Android-PullToRefresh-Gradle" />
+            <option value="$USER_HOME$/Developer/source/Android-PullToRefresh-Gradle/pulltorefresh" />
           </set>
         </option>
         <option name="myModules">
           <set>
-            <option value="$USER_HOME$/Developer/source/Andorid-PullToRefresh-Gradle" />
-            <option value="$USER_HOME$/Developer/source/Andorid-PullToRefresh-Gradle/app" />
+            <option value="$USER_HOME$/Developer/source/Android-PullToRefresh-Gradle" />
+            <option value="$USER_HOME$/Developer/source/Android-PullToRefresh-Gradle/pulltorefresh" />
           </set>
         </option>
       </GradleProjectSettings>
