@@ -39,7 +39,7 @@ ext {
     siteUrl="https://github.com/huhuang03/Android-PullToRefresh-Gradle"
     gitUrl="https://github.com/huhuang03/Android-PullToRefresh-Gradle"
 
-    libraryVersion="1.0.0"
+    libraryVersion="1.0.1"
 
     developerId = "th"
     developerName = "Tong hu"
